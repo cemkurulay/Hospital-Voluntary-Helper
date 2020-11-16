@@ -1,0 +1,14 @@
+/*css for floor boxes */
+.floorbox{
+    color: white;
+    height: 50px;
+    width: 50px;
+    background-color: tomato;
+    text-align: center;
+    line-height: 50px;
+    border: 1px solid black;
+}
+
+h1{
+    text-align: center;
+}

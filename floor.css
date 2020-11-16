@@ -1,0 +1,15 @@
+/* css for the room boxes  */
+.roombox{
+    color: white;
+    height: 50px;
+    width: 50px;
+    background-color: tomato;
+    text-align: center;
+    margin: 7px 0px;
+    line-height: 50px;
+    border: 1px solid black;
+}
+
+h1{
+    text-align: center;
+}

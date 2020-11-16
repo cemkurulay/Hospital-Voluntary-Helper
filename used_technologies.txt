@@ -1,4 +1,0 @@
-backend = php
-frontend = html, css, jquery, materialize.css
-database = phpmyadmin, mariadb
-server = WAMP
